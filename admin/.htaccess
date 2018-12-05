@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Admin Panel"
+AuthUserFile F:\home\MyDipFord.by\www\admin/.htpasswd
+Require valid-user
